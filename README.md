@@ -1,36 +1,37 @@
-Senior Linux & Infrastructure Engineer
+# Senior Linux & Infrastructure Engineer
 
-I am an infrastructure engineer and consultant with over 10 years of hands-on experience in Linux systems, networking, virtualization, storage, and infrastructure operations.
+Infrastructure engineer and consultant with 10+ years of hands-on experience in Linux systems, networking, virtualization, storage and production infrastructure operations.
 
-My professional focus is building, maintaining, troubleshooting, and improving reliable infrastructure systems.
+I design, implement, maintain and troubleshoot infrastructure, with a focus on reliable service delivery and practical engineering solutions.
 
-Core Technical Expertise
+## Core technical expertise
 
-* Operating Systems: Linux administration, system troubleshooting, performance optimization
-* Virtualization: KVM, VMware
-* Networking: Cisco, MikroTik, VLAN, LACP, Nexus vPC, OSPF and BGP exposure
-* Web Infrastructure: NGINX, reverse proxies, load balancing and CDN infrastructure
-* Infrastructure Operations: Storage, high availability, monitoring and production incident troubleshooting
+- **Linux:** system administration, troubleshooting and performance optimization
+- **Virtualization:** KVM and VMware
+- **Networking:** Cisco, MikroTik, VLANs, LACP, Nexus vPC, OSPF and BGP exposure
+- **Web and media infrastructure:** NGINX, reverse proxies, load balancing, RTMP/HLS, VOD and distributed CDN caching
+- **Storage and operations:** NFS, infrastructure availability and production incident troubleshooting
+- **Observability:** Graylog usage reporting, Zabbix monitoring and Telegram notifications
+- **VoIP:** FreePBX
 
-Currently Developing
+## Featured technical portfolio
 
-* AWS Cloud Infrastructure
-* Terraform and Infrastructure as Code
-* Python and Bash Automation
-* Ansible and Configuration Management
-* Container Technologies
+| Project | Scope |
+| --- | --- |
+| [Multi-Site Live Streaming & VOD Delivery Infrastructure](https://github.com/minnthuwinn/multi-site-video-streaming-infrastructure) | Anonymized production architecture case study covering NGINX, CDN caching, network redundancy, storage, monitoring and usage analytics |
 
-Technical Portfolio
+**[Explore my infrastructure engineering portfolio](https://github.com/minnthuwinn/infrastructure-portfolio)**
 
-This GitHub profile contains hands-on infrastructure labs, anonymized technical case studies, and practical automation tools.
+Production case studies describe my professional experience. Personal labs and automation projects are identified separately, with verification evidence where available.
 
-Projects are categorized to distinguish professional experience from independently implemented learning labs. Technical results are documented using observable verification evidence.
+## Currently developing
 
-Professional Interests
+- AWS cloud infrastructure
+- Terraform and Infrastructure as Code
+- Python and Bash automation
+- Ansible and configuration management
+- Container technologies
 
-* Senior Linux and Infrastructure Engineering
-* Remote Infrastructure Consulting
-* Cloud Infrastructure and Automation
-* Infrastructure Reliability and Troubleshooting
+## Professional opportunities
 
-Open to international remote opportunities, consulting engagements, and infrastructure projects.
+Open to international remote Linux and infrastructure engineering roles, infrastructure consulting, and project-based engagements.
